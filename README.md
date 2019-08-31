@@ -9,11 +9,13 @@
   -  **GibHub**: [Texto](./docs/Macaco_Budista.md)
   - **Youtube**: [Video](https://www.youtube.com/watch?v=_iRz_BrCEbs) 
   - **Nota do video**: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
+
 #### 2. O Caracol Cerebral
   - **Descrição**: "Até parece que o meu cérebro é menor do que um Caracol."
   - **GibHub**: [Texto](./docs/O_Caracol_Cerebral.md)
   - **Youtube**: [Videos](https://www.youtube.com/playlist?list=PLEIKvfX5iExCJKaQjuVlJyY2kxxfYJMD-)
   - **Nota video**: Para maiores de 18 (conteúdo sensível e uso de linguagem pouco cuidada)
+
 #### 3. O Coração
   - **Descrição**: "Sou a Expressão de um Coração deixado à cidade do Porto, há cerca de 1 século atrás."
   - **Youtube**: [Video](https://www.youtube.com/watch?v=iWI-w27XbWk)
