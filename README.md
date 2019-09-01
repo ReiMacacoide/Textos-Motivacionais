@@ -1,8 +1,6 @@
 # Textos Motivacionais em Português
 
-## Conteúdo teórico para o desenvolvimento do Desafio Mundial
-
-### Ler mais no seguinte [link](https://odicforcesounds.github.io/Desafio-Mundial/)
+## Conteúdo teórico para o desenvolvimento deste nosso [Desafio Mundial](https://odicforcesounds.github.io/Desafio-Mundial/)
 
 #### 1. Notas do 4º Macaco Budista
   - **Descrição**: "O Macaco que Vê, Fala e Ouve."
